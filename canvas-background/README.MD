@@ -1,5 +1,5 @@
 ## 1.create a dom in a html/'vue template' with id or other prop, like:
-## $lt;div id="canvas"></div>
+## <div id="canvas"></div>
 
 ## 2.import CanvasBg.js or CanvasBgWithEvent.js(with click event）
 
