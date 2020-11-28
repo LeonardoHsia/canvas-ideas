@@ -1,2 +1,2 @@
 # canvas-ideas
-contains some ideas archived though canvas
+contains some ideas achieved though canvas
